@@ -1,5 +1,5 @@
 
-![](../img/백준.png)
+![백준](../../img/백준.png)
 백준 1874번 문제 : <https://www.acmicpc.net/problem/1874>
 
 백준 1874문제 해설
