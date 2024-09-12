@@ -1,7 +1,9 @@
 
-<img src = "/img/BeakJoon/백준.png" width=1000px alt="백준qorwnsBeakjoon"></img>
+<img src = "/img/BeakJoon/백준.png" width=1000px alt="백준_qorwns_Beakjoon"></img>
+백준 1874번 문제 : “https://www.acmicpc.net/problem/1874” 
 
-<a href=“https://www.acmicpc.net/problem/1874”> 백준 1874번 문제 </a>
+<meta name="keywords" content="코딩테스트, 스택, 오름차순, 정렬, 수열">
+<meta name = “description” content = “백준 1874번 문제 스택을 이용해서 주어진 수열을 만들 수 있는가? push와 pop은 언제 어떤 조건으로 진행되어야하는가? 결과는 어떻게 출력되는가?”>
 
 </br></br>
 
@@ -35,7 +37,7 @@
 
     (1 | 2 | 3 | 4   데이터 출입부
 
-위와 구조로 들어가게 되어 주어진 수열을 만들기 위해서 4,3 을 빼내어야한다.
+위와 구조로 들어가게 되어 주어진 수열을 만들기 위해서 4,__3__ 을 빼내어야한다.
 여기까지 연산의 순서를 요구대로 표현하면 + + + + - - 가 되고 만든 수열에는 4,3 이 들어가게 된다.
 
 이 후 나와야할 숫자는 6이므로 오름차순 그대로 이어서 5,6을 넣는다.
