@@ -1,7 +1,7 @@
 
-<img src = "/img/BeakJoon/백준.png" width=1000px></img>
+<img src = "/img/BeakJoon/백준.png" width=1000px alt="백준qorwnsBeakjoon"></img>
 
-백준 1874번 문제 : <https://www.acmicpc.net/problem/1874>
+<a href=“https://www.acmicpc.net/problem/1874”> 백준 1874번 문제 </a>
 
 </br></br>
 
@@ -20,7 +20,7 @@
 ### 출력
 입력된 수열을 만들기 위해 필요한 연산을 한 줄에 한 개씩 출력한다. push연산은 +로, pop 연산은 -로 표현하도록 한다. 불가능한 경우 NO를 출력한다.
 </br></br></br>
-<img src = "/img/BeakJoon/No.1874.png" width=1000px></img>
+<img src = "/img/BeakJoon/No.1874.png" width=1000px alt="스택_오름차순"></img>
 </br></br>
 
 ## 문제의 이해
