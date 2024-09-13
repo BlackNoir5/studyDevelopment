@@ -1,6 +1,6 @@
 
 <img src = "/img/BeakJoon/백준.png" width=1000px alt="백준_qorwns_Beakjoon"></img>
-백준 1874번 문제 : “https://www.acmicpc.net/problem/1874/” 
+백준 1874번 문제 : https://www.acmicpc.net/problem/1874 
 
 <meta name="keywords" content="코딩테스트, 스택, 오름차순, 정렬, 수열">
 <meta name=“description” content = “백준 1874번 문제 스택을 이용해서 주어진 수열을 만들 수 있는가? push와 pop은 언제 어떤 조건으로 진행되어야하는가? 결과는 어떻게 출력되는가?”>
