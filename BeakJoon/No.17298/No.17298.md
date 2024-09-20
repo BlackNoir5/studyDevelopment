@@ -105,24 +105,25 @@
 
 
 ```java
-         
-        int[] answer = new int[5];
-        Stack<Integer> st = new Stack<>();
-        st.push(0);
+        // 이 코드에서 초기화되지 않은 arr 는 주어진 배열의 값을 의미한다.
 
-        for(int i=1;i<arr.length;i++){
-            while(!st.isEmpty() && arr[st.peek()]<arr[i]){
-                answer[st.pop()]=arr[i];
+        int[] answer = new int[5];                              // 결과값
+        Stack<Integer> st = new Stack<>();                      // 이용할 스택
+        st.push(0);                                             // 첫 번째 값 입력
+
+        for(int i=1;i<arr.length;i++){                          
+            while(!st.isEmpty() && arr[st.peek()]<arr[i]){      // 비어있지 않고 현재 스택 맨위 값이 배열의 현재 값보다 작은 동안 
+                answer[st.pop()]=arr[i];                        // 값을 빼내면서 큰 값을 반환
             }
-            st.push(i);
+            st.push(i);                                         // 큰 값의 인덱스 삽입
         }
 
-        while(!st.isEmpty()){
-            answer[st.pop()]=-1;
+        while(!st.isEmpty()){                                   // 비어있지 않은 동안
+            answer[st.pop()]=-1;                                // -1을 반환하면서 빼냄
         }
         
         for(int i : answer){
-            System.out.println(i+", ");
+            System.out.println(i+", ");            
         }
    
 ```
