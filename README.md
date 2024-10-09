@@ -1,5 +1,5 @@
 # codingTest
-## BeakJoon
+### BeakJoon
 
 coding test bundle
 <br><br>
