@@ -1,4 +1,0 @@
-# codingTest
-### BeakJoon
-
-### Programmers
