@@ -1,6 +1,6 @@
 # codingTest
 coding test bundle
-
+<br>
 <span style="background-color:#DCFFE4">complete ✅ </span>
 
 오큰수(RightBiggerValue) : [No.17298][No.17298link]
@@ -11,6 +11,7 @@ coding test bundle
 
 [No.1874link]: "/BeakJoon/No.1874/No.1874.md"
 
+<br>
 <span style="background-color:#FFE6E6"> Writing 🤔 </span>
 
 절대값_힙(AbsHeap) (StackASC) : [No.11286][No.11286link]
