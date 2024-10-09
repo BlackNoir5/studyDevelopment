@@ -1,6 +1,6 @@
 # codingTest
 coding test bundle
-<br>
+<br><br>
 <span style="background-color:#DCFFE4">complete ✅ </span>
 
 오큰수(RightBiggerValue) : [No.17298][No.17298link]
