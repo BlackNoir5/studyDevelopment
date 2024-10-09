@@ -12,7 +12,7 @@ coding test bundle
 [No.1874link]: "/BeakJoon/No.1874/No.1874.md"
 
 <br>
-<span style="background-color:#FFE6E6"> Writing 🤔 </span>
+<span style="background-color:#FFE6E6">Writing 🤔 </span>
 
 절대값_힙(AbsHeap) (StackASC) : [No.11286][No.11286link]
 
