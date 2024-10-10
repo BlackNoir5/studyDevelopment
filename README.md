@@ -11,7 +11,7 @@ coding test bundle
 
 스택_오름차순 (StackASC) : [No.1874][No.1874link]
 
-[No.1874link]: ./condingTest/BeakJoon/No.1874/No.1874.md
+[No.1874link]: ./codingTest/BeakJoon/No.1874/No.1874.md
 
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
