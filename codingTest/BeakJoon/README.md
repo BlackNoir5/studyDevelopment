@@ -1,4 +1,4 @@
-### BeakJoon
+# BeakJoon
 coding test bundle
 <br><br>
 <span style="background-color:#DCFFE4">complete ✅ </span>
