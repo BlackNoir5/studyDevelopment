@@ -8,5 +8,9 @@ OOP JAVA Study
 
 [Singletonlink]: ./SingletonPattern/SingletonMain.java
 
+ArrayList : [ArrayList][ArrayListlink]
+
+[ArrayListlink]: ./ArrayList/ArrayListTest.java
+
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
