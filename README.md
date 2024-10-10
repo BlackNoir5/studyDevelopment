@@ -7,15 +7,15 @@ coding test bundle
 
 오큰수(RightBiggerValue) : [No.17298][No.17298link]
 
-[No.17298link]: "CodingTest/BeakJoon/No.17298/No.17298.md"
+[No.17298link]: "codingTest/BeakJoon/No.17298/No.17298.md"
 
 스택_오름차순 (StackASC) : [No.1874][No.1874link]
 
-[No.1874link]: "CondingTest/BeakJoon/No.1874/No.1874.md"
+[No.1874link]: "condingTest/BeakJoon/No.1874/No.1874.md"
 
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
 
 절대값_힙(AbsHeap) (StackASC) : [No.11286][No.11286link]
 
-[No.11286link]: "CodingTest/BeakJoon/No.11286/No.11286.md"
+[No.11286link]: "codingTest/BeakJoon/No.11286/No.11286.md"
