@@ -5,4 +5,12 @@
 
 ### HTTP Method
 
-<img src = "/img/SpringBoot/HTTP_Method.png" width=800px alt="HTTP API Method"></img>
+<img src = "/img/SpringBoot/HTTP_Method.png" width=600px alt="HTTP API Method"></img>
+
+HTTP Method : [HTTP Get Method][HTTPGlink]
+              [HTTP Post Method][HTTPPlink]
+              [HTTP Method Model][HTTPMlink]
+
+[HTTPGlink]: ./Basic/HTTP_Method/GetController.java
+[HTTPPlink]: ./Basic/HTTP_Method/PostController.java
+[HTTPMlink]: ./Basic/HTTP_Method/SearchParam.java
