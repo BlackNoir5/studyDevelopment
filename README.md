@@ -1,5 +1,7 @@
 # studyDevelopment
 
+This repository is where I organize what I have studied.
+
 ## JAVA
 OOP JAVA Study
 
