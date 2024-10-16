@@ -1,4 +1,23 @@
-# codingTest
+# studyDevelopment
+
+## JAVA
+OOP JAVA Study
+
+<br>
+<span style="background-color:#DCFFE4">complete ✅ </span>
+
+싱글톤 패턴(SingletonPattern) : [Singleton][Singletonlink]
+
+[Singletonlink]: ./OOP/JAVA/SingletonPattern/SingletonMain.java
+
+ArrayList : [ArrayList][ArrayListlink]
+
+[ArrayListlink]: ./OOP/JAVA/ArrayList/ArrayListTest.java
+
+<br>
+<span style="background-color:#FFE6E6">Writing 🤔 </span>
+
+## codingTest
 ### BeakJoon
 
 coding test bundle
