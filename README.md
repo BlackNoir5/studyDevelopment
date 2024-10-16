@@ -19,7 +19,7 @@ ArrayList : [ArrayList][ArrayListlink]
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
 
-## SPRING BOOT
+## Spring Boot
 Spring Boot Study
 
 <br>
