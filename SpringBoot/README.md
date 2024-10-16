@@ -8,7 +8,7 @@ HTTP Method : [HTTP Get Method][HTTPGlink]
               [HTTP Post Method][HTTPPlink]
 
 [HTTPGlink]: ./Basic/HTTP_Method/GetController.java
-[HTTPPlink]: ./Basic/HTTP_Method/PoSTController.java
+[HTTPPlink]: ./Basic/HTTP_Method/PostController.java
 
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
