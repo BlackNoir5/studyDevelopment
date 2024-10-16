@@ -11,6 +11,6 @@ HTTP Method : [HTTP Get Method][HTTPGlink]
               [HTTP Post Method][HTTPPlink]
               [HTTP Method Model][HTTPMlink]
 
-[HTTPGlink]: ./Basic/HTTP_Method/GetController.java
-[HTTPPlink]: ./Basic/HTTP_Method/PostController.java
-[HTTPMlink]: ./Basic/HTTP_Method/SearchParam.java
+[HTTPGlink]: ./GetController.java
+[HTTPPlink]: ./PostController.java
+[HTTPMlink]: ./SearchParam.java
