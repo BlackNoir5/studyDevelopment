@@ -4,11 +4,10 @@ Spring Boot Study
 <br>
 <span style="background-color:#DCFFE4">complete ✅ </span>
 
-HTTP Method : [HTTP Get Method][HTTPGlink]
-              [HTTP Post Method][HTTPPlink]
+HTTP Method : [HTTP Method][HTTPlink]
+ 
+[HTTPlink]: ./Basic/HTTP_Method/HTTP_Method.md
 
-[HTTPGlink]: ./Basic/HTTP_Method/GetController.java
-[HTTPPlink]: ./Basic/HTTP_Method/PostController.java
 
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
