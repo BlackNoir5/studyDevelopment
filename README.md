@@ -10,7 +10,7 @@ OOP JAVA Study
 
 싱글톤 패턴(SingletonPattern) : [Singleton][Singletonlink]
 
-[Singletonlink]: ./OOP/JAVA/SingletonPattern/SingletonMain.java
+[Singletonlink]: ./OOP/JAVA/SingletonPattern/Singleton.md
 
 ArrayList : [ArrayList][ArrayListlink]
 
