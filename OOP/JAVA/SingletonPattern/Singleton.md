@@ -24,14 +24,37 @@
   }
 ```
 
+
+
 ```java : CarFactory.java
+  public class CarFactory {
+      // private 생성자
+      private CarFactory(){};
+      // 인스턴스 생성
+      private static CarFactory instance = new CarFactory();
+
+      public static CarFactory getInstance() {
+              
+          if( instance == null) {
+              instance = new CarFactory();
+          }
+          return instance;
+              
+      }
+  
+      public Car createCar(){
+          Car car = new Car();
+          return car;
+      }
+      
+  }
 ```
 
 ```java : SingletonMain.java
   public class SingletonMain {
 
   	public static void main(String[] args) {
-  		CarFactory factory = CarFactory.getInstance();
+  		CarFactory factory = CarFactory.getInstance(); // 유일하게 선언된 Instance를 사용
   		Car mySonata = factory.createCar();
   		Car yourSonata = factory.createCar();
   		
