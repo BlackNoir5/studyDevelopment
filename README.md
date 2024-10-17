@@ -29,6 +29,10 @@ HTTP Method : [HTTP Method][HTTPlink]
  
 [HTTPlink]: ./SpringBoot/Basic/HTTP_Method/HTTP_Method.md
 
+Lombok : [Lombok][Lomboklink]
+ 
+[Lomboklink]: ./SpringBoot/Basic/Lombok/Lombok.md
+
 
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
