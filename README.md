@@ -18,7 +18,6 @@ ArrayList : [ArrayList][ArrayListlink]
 [ArrayListlink]: ./OOP/JAVA/ArrayList/ArrayListTest.java
 
 <br>
-<span style="background-color:#FFE6E6">Writing 🤔 </span>
 
 ## Spring Boot
 Spring Boot Study
@@ -40,7 +39,6 @@ JPA : [JPA][JPAlink]
 [JPAlink]: ./SpringBoot/Basic/JPA/JPA.md
 
 <br>
-<span style="background-color:#FFE6E6">Writing 🤔 </span>
 
 ## codingTest
 ### BeakJoon
