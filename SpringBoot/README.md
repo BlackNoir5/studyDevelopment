@@ -12,5 +12,9 @@ Lombok : [Lombok][Lomboklink]
  
 [Lomboklink]: ./Basic/Lombok/Lombok.md
 
+JPA : [JPA][JPAlink]
+ 
+[JPAlink]: ./Basic/JPA/JPA.md
+
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
