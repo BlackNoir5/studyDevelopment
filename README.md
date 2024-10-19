@@ -6,7 +6,7 @@ This repository is where I organize what I have studied.
 OOP JAVA Study
 
 <br>
-<span style="background-color:#DCFFE4">complete ✅ </span>
+<span style="background-color:#DCFFE4">complete ✅ </span> <br>
 
 싱글톤 패턴(SingletonPattern) : [Singleton][Singletonlink]
 
@@ -23,7 +23,7 @@ ArrayList : [ArrayList][ArrayListlink]
 Spring Boot Study
 
 <br>
-<span style="background-color:#DCFFE4">complete ✅ </span>
+<span style="background-color:#DCFFE4">complete ✅ </span> <br>
 
 HTTP Method : [HTTP Method][HTTPlink]
  
