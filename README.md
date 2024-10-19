@@ -33,6 +33,9 @@ Lombok : [Lombok][Lomboklink]
  
 [Lomboklink]: ./SpringBoot/Basic/Lombok/Lombok.md
 
+JPA : [JPA][JPAlink]
+ 
+[JPAlink]: ./SpringBoot/Basic/JPA/JPA.md
 
 <br>
 <span style="background-color:#FFE6E6">Writing 🤔 </span>
